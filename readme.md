@@ -2,7 +2,7 @@
 <h3>Objetivo:</h3>
 <h3>Iniciar o projeto utilizando apenas HTML</h3>
 <h4>Equipe:</h4>
-<h5>xxxxxxxxxx</h5>
+<h5>Yuri Oliveira Santana</h5>
 <h5>Leonardo Vinicius Martins de Souza</h5>
 <h5>Alan Pedro Dias</h5>
 
